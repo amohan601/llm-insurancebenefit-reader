@@ -1,0 +1,5 @@
+.env
+.ipynb_checkpoints/*
+vectorstore/*
+readme.backup.md
+example/*
