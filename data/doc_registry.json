@@ -1,0 +1,10 @@
+{
+  "cf844f42-2802-4655-a73e-5693628a57bc": {
+    "file_name": "aetna.pdf",
+    "path": "data/raw_pdfs/aetna.pdf"
+  },
+  "b5061bcd-0567-4a15-ad4d-a67f2fc185cc": {
+    "file_name": "cigna.pdf",
+    "path": "data/raw_pdfs/cigna.pdf"
+  }
+}
