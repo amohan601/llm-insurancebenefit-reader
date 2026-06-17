@@ -1,5 +1,9 @@
 .env
 .ipynb_checkpoints/*
-vectorstore/*
+**/vectorstore/*
 readme.backup.md
 example/*
+**/.DS_Store
+**/index.faiss
+**/index.pkl
+.idea/**
